@@ -1,4 +1,4 @@
-# build.bresilla.com sends every result to the bresilla cache, without pins.
+# build.bresilla.com sends every result to the packages cache, without pins.
 [cache]
-default = "bresilla"
+default = "packages"
 pin = false
