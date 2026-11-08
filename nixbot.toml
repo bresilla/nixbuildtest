@@ -1,0 +1,4 @@
+# build.bresilla.com sends every result to the bresilla cache, without pins.
+[cache]
+default = "bresilla"
+pin = false
